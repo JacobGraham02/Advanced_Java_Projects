@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Advanced_Java_Projects.iml" filepath="$PROJECT_DIR$/.idea/Advanced_Java_Projects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ClientServer_Database/ClientServer_Database.iml" filepath="$PROJECT_DIR$/ClientServer_Database/ClientServer_Database.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataStructures/DataStructures.iml" filepath="$PROJECT_DIR$/DataStructures/DataStructures.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GenericCollections/GenericCollections.iml" filepath="$PROJECT_DIR$/GenericCollections/GenericCollections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lambdas_Streams/Lambdas_Streams.iml" filepath="$PROJECT_DIR$/Lambdas_Streams/Lambdas_Streams.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion/Recursion.iml" filepath="$PROJECT_DIR$/Recursion/Recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strings_Characters_RegularExpressions/Strings_Characters_RegularExpressions.iml" filepath="$PROJECT_DIR$/Strings_Characters_RegularExpressions/Strings_Characters_RegularExpressions.iml" />
+    </modules>
+  </component>
+</project>
